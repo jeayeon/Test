@@ -8,6 +8,7 @@ public class Main {
 		System.out.println(a+b);
 		int c = a+b;
 		System.out.println(c);
+		System.out.println("hi");
 
 	}
 
